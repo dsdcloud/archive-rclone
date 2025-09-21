@@ -1,0 +1,9 @@
+# Example rclone.conf template for OneDrive for Business
+
+[onedrive]
+type = onedrive
+client_id =
+client_secret =
+token = {"access_token":"", "token_type":"Bearer", "refresh_token":""}
+drive_id =
+drive_type = business
